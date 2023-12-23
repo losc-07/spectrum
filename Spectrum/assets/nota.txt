@@ -1,0 +1,9 @@
+/Nome/
+Spectrum
+
+/logo/
+Cor do icone - #7A63FF
+Cor do circulo - #0C0C0C
+Cor do texto - #E7E7E7
+Cor do fundo - #1E1E1E
+Fonte da logo - Montserrat Alternates Bold
